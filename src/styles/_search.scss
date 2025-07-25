@@ -1,0 +1,28 @@
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 0rem;
+
+  input,
+  button {
+    font-size: 2rem;
+    padding: 0.25rem;
+    border: 3px solid rgb(186, 252, 181);
+  }
+  button {
+    background-color: rgb(186, 252, 181);
+  }
+}
+// 更改boostrap 原本預設顏色
+.btn-outline-success {
+  background-color: #178CA4; 
+  color: white;              /* 文字變白 */
+  border-color: #178CA4;
+}
+
+.btn-outline-success:hover {
+  background-color: #18B7BE; /* 新 hover 背景色 */
+  color: white;              /* 文字變白 */
+  border-color: #18B7BE;
+}
