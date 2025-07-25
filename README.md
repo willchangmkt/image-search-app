@@ -14,8 +14,8 @@
 * 下載圖片：點選「Download Picture」會在新分頁開啟大圖，使用者可右鍵另存圖片。
 
 ## 畫面
-![ImageSearch1](https://meee.com.tw/hHxhvKy)
-![ImageSearch2](https://meee.com.tw/kMXR5fA)
+![ImageSearch1](https://meee.com.tw/hHxhvKy.jpg)
+![ImageSearch2](https://meee.com.tw/kMXR5fA.jpg)
 
 ## 操作功能影片
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/zols9pIgf8U/maxresdefault.jpg)](https://www.youtube.com/watch?v=zols9pIgf8U)
