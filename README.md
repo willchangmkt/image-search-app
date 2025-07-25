@@ -67,4 +67,4 @@ REACT_APP_PEXELS_API_KEY= #Pexels給予的用戶端密鑰
 
 ## 聯絡作者
 您可以透過以下的方式與我聯繫
-我的Gmail信箱: yuan625@gmail.com
+我的信箱: yuan625@gmail.com
